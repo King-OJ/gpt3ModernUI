@@ -25,6 +25,7 @@
 .gpt3__navbar-links_container {
     display: flex;
     flex-direction: row;
+    z-index: 9999;
 }
 
 .gpt3__navbar-sign {
