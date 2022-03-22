@@ -9,7 +9,6 @@
     align-items: flex-start;
     flex-direction: column;
     margin-right: 5rem;
-    z-index: -1;
 }
 
 .gpt3__header-content h1 {
@@ -18,7 +17,7 @@
     font-size: 62px;
     line-height: 75px;
     letter-spacing: -0.04em;
-    z-index: -1;
+    z-index: 1;
 }
 
 .gpt3__header-content p {
